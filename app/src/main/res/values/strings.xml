@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GameCock</string>
+    <string name="activity_login_username">Username</string>
+    <string name="activity_login_password">Password</string>
+    <string name="activity_login_login">Login</string>
+    <string name="redata">Failed to obtain data</string>
+    <string name="Missing">Missing</string>
+    <string name="uds">Upload data Successfully</string>
+    <!---->
+    <string name="reload">reload</string>
+    <string name="cockavscockb">Cock A VS Cock B</string>
+    <string name="nextcompetition">Next Game</string>
+    <string name="serialnumber">编号</string>
+    <string name="chipnumber">芯片号</string>
+    <string name="cockgameinfo">比赛信息</string>
+    <string name="cockowner">鸡主姓名</string>
+    <string name="stage">阶段</string>
+    <string name="queryresult">查询结果</string>
+    <string name="species">品种ID</string>
+    <string name="birthday">出生日期</string>
+    <string name="associationid">协会ID</string>
+    <string name="farmplantid">养殖场ID</string>
+    <string name="farmplantuserid">养殖场用户ID</string>
+    <string name="cockstatus">斗鸡状态</string>
+    <string name="nextstep">下一步</string>
+    <string name="cockstatusoneoftime">到达第一阶段的日期</string>
+    <string name="cockstatustwooftime">到达第二阶段的日期</string>
+    <string name="cockstatusthreeoftime">到达第三阶段的日期</string>
+    <string name="isforeigncock">是否是进口鸡</string>
+    <string name="importerid">进口人ID</string>
+    <string name="cockdetailinfo">Cock detail information </string>
+    <!--Toast 信息-->
+    <string name="toastsomecockstatusiswrong">斗鸡状态不正常，重新录入</string>
+    <string name="normal">normal</string>
+    <string name="missing">missing</string>
+    <string name="elimination">missing</string>
+</resources>

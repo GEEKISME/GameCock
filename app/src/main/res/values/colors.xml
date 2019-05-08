@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="advance_red">#D71429</color>   <!--原先旧的红色#d8251e-->
+    <color name="color_9c9999">#9c9999</color>
+    <color name="translucent">#00000000</color>
+    <color name="color_fafafa">#fafafa</color>
+    <color name="colorPrimary">#23ABD2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#0288D1</color>
+    <color name="scan_corner_color">#0effc2</color>
+    <!--<color name="scan_corner_color">#0288D1</color>-->
+
+    <!--以下是一套色系-->
+    <color name="primary">#4576f2</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#B3E5FC</color>
+    <color name="accent">#FFC107</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="loginbackground">#E3E3E3</color>
+    <color name="colorLightTransparentGray">#d7d7d7</color>
+    <color name="black">#000000</color>
+    <color name="title_bar_color">#000000</color>
+    <color name="choice_subtitle">#d8251e</color>
+    <color name="color_999999">#999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_e6_d71429">#e6d71429</color>
+    <color name="color_c6c6c6">#c6c6c6</color>
+    <color name="outside_color_gray">#66444444</color>
+    <color name="user_sign">#a4a4a4</color>
+    <color name="color_f6f5f8">#f6f5f8</color>
+</resources>
